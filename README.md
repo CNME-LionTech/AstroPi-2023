@@ -39,5 +39,4 @@ The project also includes documentation, hardware schematics, and 3D models of t
 Please see the individual README files in each folder for more information about their contents and usage.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-
 See the [LICENSE](LICENSE.txt) file for license rights and limitations (MIT).
