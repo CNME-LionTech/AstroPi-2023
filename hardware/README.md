@@ -1,1 +1,1 @@
-
+This directory contains any files related to the hardware of the project, such as schematics (`schematics.pdf`), 3D models of the case and mount (`case.stl`, `mount.stl`), and a parts list (`parts-list.md`).
