@@ -37,3 +37,7 @@ The project also includes documentation, hardware schematics, and 3D models of t
 - `reports/`: contains the project reports, including the final report and any intermediate reports created during the project.
 
 Please see the individual README files in each folder for more information about their contents and usage.
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) See the [LICENSE](LICENSE.txt) file for license rights and limitations (MIT).
