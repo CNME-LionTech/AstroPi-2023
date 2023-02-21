@@ -33,6 +33,7 @@ The folder structure of the AstroPi Project is as follows:
   - `schematics.pdf`: This file contains the schematics for the AstroPi hardware.
   - `3D-models/`: This directory contains 3D models of the AstroPi case and mounting hardware.
   - `parts-list.md`: This file contains a list of the hardware used in the project.
+- `reports/`: This directory contains reports based on the alanysed data.
 - `README.md`: This file is the main README file for the project.
 - `CHANGELOG.md`: This file contains a log of changes made to the project over time.
 - `CONTRIBUTING.md`: This file outlines the contribution process, code style guidelines, and other important information for contributors.
