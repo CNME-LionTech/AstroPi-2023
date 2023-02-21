@@ -1,1 +1,7 @@
-This directory contains any files related to the hardware of the project, such as schematics (`schematics.pdf`), 3D models of the case and mount (`case.stl`, `mount.stl`), and a parts list (`parts-list.md`).
+# Hardware
+
+This directory contains documentation and models for the hardware used in the project.
+
+- `schematics.pdf`: This file contains the schematics for the AstroPi hardware.
+- `3D-models/`: This directory contains 3D models of the AstroPi case and mounting hardware.
+- `parts-list.md`: This file contains a list of the hardware used in the project.
