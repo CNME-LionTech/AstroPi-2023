@@ -6,15 +6,15 @@ This project is designed to perform both primary and secondary missions using th
 
 The primary mission of this project is to collect and process scientific data from the AstroPi's sensors. The data collected will be used to study TBD on the International Space Station and to investigate the TBD.
 
-### Algorithm Description
+#### Algorithm Description
 
-To achieve this mission, we have developed a data acquisition algorithm that collects data from the AstroPi's sensors and saves it to a log file. The algorithm also captures images of the Earth from the AstroPi's camera and stores them in a separate directory. 
+&#9656 To achieve this mission, we have developed a data acquisition algorithm that collects data from the AstroPi's sensors and saves it to a log file. The algorithm also captures images of the Earth from the AstroPi's camera and stores them in a separate directory. 
 
 ## Secondary Mission
 
 The secondary mission of this project is to perform image processing on the images collected during the primary mission. The goal is to identify patterns and anomalies in the images and to study the effects of the space environment on Earth and the stars.
 
-### Data Acquisition Code Description
+#### Data Acquisition Code Description
 
 To achieve this mission, we have developed a separate data acquisition code that captures images from the AstroPi's camera and saves them to a directory. The code also captures sensor data and stores it in a log file for later processing. 
 
