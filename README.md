@@ -8,7 +8,10 @@ The primary mission of this project is to collect and process scientific data fr
 
 #### Algorithm Description
 
-&#9656 To achieve this mission, we have developed a data acquisition algorithm that collects data from the AstroPi's sensors and saves it to a log file. The algorithm also captures images of the Earth from the AstroPi's camera and stores them in a separate directory. 
+To achieve this mission, we have developed a data acquisition algorithm that collects data from the AstroPi's sensors and saves it to a log file. The algorithm also captures images of the Earth from the AstroPi's camera and stores them in a separate directory. 
+* The Astro Pi device will record the environmental data and will save it in a file log useful for further analysis.
+* The file log will have a collection of data for each line. 
+* The survey will be accomplished every second and the temperature, humidity and pressure values will be saved by reporting  time of the collection of data, too. 
 
 ## Secondary Mission
 
@@ -16,7 +19,7 @@ The secondary mission of this project is to perform image processing on the imag
 
 #### Data Acquisition Code Description
 
-To achieve this mission, we have developed a separate data acquisition code that captures images from the AstroPi's camera and saves them to a directory. The code also captures sensor data and stores it in a log file for later processing. 
+&nbsp;&nbsp;&nbsp;&nbsp; ▸ To achieve this mission, we have developed a separate data acquisition code that captures images from the AstroPi's camera and saves them to a directory. The code also captures sensor data and stores it in a log file for later processing. 
 
 ## Overview
 
