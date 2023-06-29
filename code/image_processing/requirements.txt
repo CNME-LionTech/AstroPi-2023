@@ -1,0 +1,11 @@
+opencv-python
+scikit-image
+numpy
+termcolor
+matplotlib
+scikit-image
+plotly
+bokeh
+exifread
+piexif
+pillow
