@@ -1,1 +1,8 @@
+# Ignore all files in the selected directories
+/code/image_processing/neural_network/train_dir/Atmospheric_gravity_waves/*
+/code/image_processing/neural_network/train_dir/Non_Atmospheric_gravity_waves/*
+
+# Include the selected images
+!/code/image_processing/neural_network/train_dir/Atmospheric_gravity_waves/*.png
+!/code/image_processing/neural_network/train_dir/Non_Atmospheric_gravity_waves/*.png
 
